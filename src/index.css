@@ -7,5 +7,6 @@
 }
 
 .input-base {
-  @apply w-full border border-brown/20 rounded-xl px-3 py-2 text-sm text-brown bg-white focus:outline-none focus:border-rose;
+  @apply w-full border border-brown/20 rounded-xl px-3 py-2 text-brown bg-white focus:outline-none focus:border-rose;
+  font-size: 16px;
 }
